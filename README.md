@@ -1,2 +1,2 @@
-# -Certificao-Pedra-papel-tesoura
+# -Jogo-Pedra-papel-tesoura
 Projetos para Certificação de Machine Learning com Python
